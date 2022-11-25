@@ -1,20 +1,21 @@
-LinuxStressor - simple complete stressor for linux.
+**LinuxStressor - simple stressor for linux.**
+=======================================================
 
 How to install clone this repo:
 
-git clone https://github.com/Wouman/LinuxStress
-cd LinuxStress
+    git clone https://github.com/Wouman/LinuxStress
+    cd LinuxStress
 
 Then compile it using:
 
-make
+    make
 
 Now you can use it here:
 
-./l-stress
+    ./l-stress
 
 Or install to system using this:
 
-sudo make install
+    sudo make install
 
 
