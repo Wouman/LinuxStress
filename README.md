@@ -1,7 +1,7 @@
 **LinuxStressor - simple stressor for linux.**
 =======================================================
 
-How to install clone this repo:
+To install clone this repo:
 
     git clone https://github.com/Wouman/LinuxStress
     cd LinuxStress
@@ -17,5 +17,3 @@ Now you can use it here:
 Or install to system using this:
 
     sudo make install
-
-
