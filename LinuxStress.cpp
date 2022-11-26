@@ -1,5 +1,4 @@
 #include <omp.h>
-#include <stdlib.h>
 #include <iostream>
 
 #define VERSION "1.0"
